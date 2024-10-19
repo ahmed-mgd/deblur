@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+}
+
+.navbar-left {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.navbar-right {
+    list-style-type: none;
+    margin-right: 1rem;
+    align-items: center;
+}
+
+.navbar-right  li {
+    display: inline-block;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+}
