@@ -98,7 +98,7 @@ const DragAndDrop = () => {
             cursor: 'pointer',
         }}
         >
-        Upload
+        Deblur
         </button> 
     </div>
     );
